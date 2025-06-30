@@ -1,5 +1,3 @@
-# GeoRouteIQ
-
 # 🚚 **GeoRouteIQ: Logistics Route Optimizer with Real-Time Traffic Heatmaps**
 
 ![Project Status](https://img.shields.io/badge/status-in--progress-yellow.svg)
