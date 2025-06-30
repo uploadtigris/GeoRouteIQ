@@ -80,11 +80,4 @@ georouteiq/
 
 ## 🚧 Status
 
-This project is currently **in progress**. Check back soon for updates, or follow the devlog on my [LinkedIn](#) or [GitHub profile](#).
-
----
-
-## 📬 Contact
-
-Interested in collaborating or using this model in your city’s routing solution?  
-Reach out to me at [your-email@example.com](mailto:your-email@example.com)
+This project is currently **in progress**. Check back soon for updates, or follow the devlog on my [LinkedIn](https://www.linkedin.com/in/tigrismendez/) or [GitHub profile](https://github.com/uploadtigris).
