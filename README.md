@@ -52,3 +52,39 @@ GeoRouteIQ ingests those locations, clusters them into efficient zones, computes
 
 ## 📁 Project Structure (WIP)
 
+```
+georouteiq/
+├── data/           # Sample delivery and OSM data
+├── src/            # Python scripts for routing, clustering
+├── scripts/        # Automation tools, bash scripts
+├── app/            # Flask or Dash frontend
+├── db/             # SQL setup for PostGIS
+├── terraform/      # IaC configuration
+├── Dockerfile
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## 🧠 Skills Demonstrated
+
+- ✅ Geospatial analysis with Python
+- ✅ Graph theory and shortest path algorithms
+- ✅ Linux CLI and bash scripting
+- ✅ Database design with PostGIS
+- ✅ Docker containerization
+- ✅ Cloud deployment via AWS and Terraform
+
+---
+
+## 🚧 Status
+
+This project is currently **in progress**. Check back soon for updates, or follow the devlog on my [LinkedIn](#) or [GitHub profile](#).
+
+---
+
+## 📬 Contact
+
+Interested in collaborating or using this model in your city’s routing solution?  
+Reach out to me at [your-email@example.com](mailto:your-email@example.com)
