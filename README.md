@@ -1,4 +1,4 @@
-# 🚚 **GeoRouteIQ: Logistics Route Optimizer with Real-Time Traffic Heatmaps**
+# **GeoRouteIQ: Logistics Route Optimizer with Real-Time Traffic Heatmaps**
 
 ![Project Status](https://img.shields.io/badge/status-in--progress-yellow.svg)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 Overview
+## Overview
 
 In modern urban logistics, optimizing delivery routes is essential for reducing emissions, time, and cost. GeoRouteIQ leverages:
 - 📦 Delivery clustering by spatial proximity
@@ -16,7 +16,7 @@ In modern urban logistics, optimizing delivery routes is essential for reducing 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Tools Used |
 |-------|------------|
@@ -30,7 +30,7 @@ In modern urban logistics, optimizing delivery routes is essential for reducing 
 
 ---
 
-## 💻 Features (Planned)
+## Features (Planned)
 
 - [x] Simulate delivery point datasets  
 - [ ] Generate optimized route from start to end using NetworkX / OR-Tools  
@@ -43,14 +43,14 @@ In modern urban logistics, optimizing delivery routes is essential for reducing 
 
 ---
 
-## 🔍 Example Use Case
+## Example Use Case
 
 > A local logistics company wants to minimize delivery time and fuel cost for 150+ stops across Austin, TX.  
 GeoRouteIQ ingests those locations, clusters them into efficient zones, computes routes using current traffic data, and visualizes the optimized routes on a live map.
 
 ---
 
-## 📁 Project Structure (WIP)
+## Project Structure (WIP)
 
 ```
 georouteiq/
@@ -67,7 +67,7 @@ georouteiq/
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - ✅ Geospatial analysis with Python
 - ✅ Graph theory and shortest path algorithms
